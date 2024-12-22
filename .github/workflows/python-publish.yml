@@ -42,5 +42,7 @@ jobs:
       with:
           verbose: true
           skip-existing: true
+          username: __token__
+          password: ${{ secrets.KEY_TOKEN }}
 
 
