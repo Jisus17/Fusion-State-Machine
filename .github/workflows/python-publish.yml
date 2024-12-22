@@ -16,12 +16,12 @@ jobs:
         python-version: "3.x"
     - name: Install pypa/build
       run: >-
-        python3 -m
-        pip install
-        build
-        --user
+        python -m pip install --upgrade pip
+        pip install -U setuptools wheel twine
+        pip freeze > requirements.txt
+        pip install -Ur requirements.txt
     - name: Build a binary wheel and a source tarball
-      run: python3 -m build
+      run: python setup.py sdist bdist_wheel
     - name: Store the distribution packages
       uses: actions/upload-artifact@v4
       with:
