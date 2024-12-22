@@ -1,8 +1,6 @@
-name: Upload Python Package to Pypi
-
+name: Upload Package to pypi 🐍
 on:
   release: published
-
 jobs:
   build:
     name: Build distribution 📦
