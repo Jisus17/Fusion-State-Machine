@@ -3,7 +3,7 @@
 Many thanks to the original [creator](https://github.com/Shuttl-Tech) of this wonderful library, Fusion StateMachine intended for the development of applications for real-time event lighting via DMX, the starting point is a fork from the [simple-state-machine](
 https://github.com/Shuttl-Tech/simple-state-machine) library 
 
-[![Fusion StateMachine](https://github.com/Jisus17/simple-state-machine/actions/workflows/python-package.yml/badge.svg)](https://github.com/Jisus17/simple-state-machine/actions/workflows/python-package.yml)
+[![Fusion StateMachine](https://github.com/Jisus17/Fusion-State-Machine//actions/workflows/python-package.yml/badge.svg)](https://github.com/Jisus17/simple-state-machine/actions/workflows/python-package.yml)
 
 It is a python library with which you can `decorate` your class to make it a state machine.
 <!-- toc -->
