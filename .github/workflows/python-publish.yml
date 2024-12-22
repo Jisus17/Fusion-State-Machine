@@ -42,7 +42,3 @@ jobs:
       with:
           verbose: true
           skip-existing: true
-          user: __token__
-          password: pypi-AgEIcHlwaS5vcmcCJDA2YzY4MmZmLTE4ODEtNGE2Ni1hZjQ3LTVmMmI0ZTBiZTVjZgACHFsxLFsiZnVzaW9uLW1hY2hpbmUtc3RhdGUiXV0AAixbMixbImUxODY0ZDhhLTNiMmQtNGE0OC04ZTkxLWZlMjY5NzllYjk1NSJdXQAABiCnyFkClfS8yS72Iw5KstKSdlaFAhDdd6JgLK4cBrIWOA
-
-
