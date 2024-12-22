@@ -1,7 +1,7 @@
 name: Upload Python Package to Pypi
 
 on:
-  workflow_dispatch:
+  release: published
 
 jobs:
   build:
