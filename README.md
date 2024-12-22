@@ -1,5 +1,7 @@
 # Simple State Machine
 
+[![Fusion StateMachine](https://github.com/Jisus17/simple-state-machine/actions/workflows/python-package.yml/badge.svg)](https://github.com/Jisus17/simple-state-machine/actions/workflows/python-package.yml)
+
 It is a python library with which you can `decorate` your class to make it a state machine.
 <!-- toc -->
 
