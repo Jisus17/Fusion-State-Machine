@@ -40,4 +40,3 @@ jobs:
       uses: pypa/gh-action-pypi-publish@v1.12.3
       with:
           verbose: true
-          skip-existing: true
