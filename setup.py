@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="simple_state_machine",
+    name="fusion-state-machine",
     version="0.1.2",
     description="Utility to turn your class into a state machine",
-    url="https://github.com/Jisus17/simple-state-machine",
+    url="https://github.com/Jisus17/fusion-state-machine",
     author="Original Author Dhruv Agarwal forked by Jisus17",
     author_email="dhruv.agarwal@shuttl.com",
     license="MIT",
