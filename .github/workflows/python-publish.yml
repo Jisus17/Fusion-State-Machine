@@ -17,7 +17,9 @@ jobs:
     
     runs-on: ubuntu-latest
     
-    environment: pypi
+    environment:
+      name: pypi
+      url: https://pypi.org/p/fusion-machine-state
     
     permissions:
       id-token: write
