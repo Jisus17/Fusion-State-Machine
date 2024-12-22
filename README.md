@@ -1,7 +1,7 @@
 # Fusion StateMachine
 
-Many thanks to the original creator of this wonderful library, Fusion StateMachine intended for the development of applications for real-time event lighting via DMX, is a fork of the [simple-state-machine](
-https://github.com/Shuttl-Tech/simple-state-machine) library
+Many thanks to the original creator of this wonderful library, Fusion StateMachine intended for the development of applications for real-time event lighting via DMX, the starting point is a fork from the [simple-state-machine](
+https://github.com/Shuttl-Tech/simple-state-machine) library 
 
 [![Fusion StateMachine](https://github.com/Jisus17/simple-state-machine/actions/workflows/python-package.yml/badge.svg)](https://github.com/Jisus17/simple-state-machine/actions/workflows/python-package.yml)
 
